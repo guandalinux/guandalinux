@@ -15,6 +15,7 @@ Logic dictates that I automate to work less. In reality, I don’t work less—I
     <td width="60%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=guandalinux&repo=packer_vsphere_iso&theme=tokyonight&hide_border=true" width="100%" alt="Projet 1" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=guandalinux&repo=ansible_mysql_cluster_innodb&theme=tokyonight&hide_border=true" width="100%" alt="Projet 2" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guandalinux&repo=terraform_vmware_infra&theme=tokyonight&hide_border=true" width="100%" alt="Projet 3" />
     </td>
     <td width="40%" valign="top" align="center">
       <img src="./assets/cyberpunk.jpg" width="100%" style="border-radius: 10px;" alt="Cyberpunk City" />
@@ -47,9 +48,8 @@ Logic dictates that I automate to work less. In reality, I don’t work less—I
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gitlab,jenkins,argocd)
 
 ### Monitoring
-<p align="left" style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,datadog" valign="middle" />
-  <span style="display: inline-block; background-color: #f7f7f7; width: 48px; height: 48px; border-radius: 12px; vertical-align: middle; box-shadow: 0 1px 3px rgba(0,0,0,0.1);"><img src="https://cdn.simpleicons.org/opensearch/005EB8" width="34" height="34" alt="Monitoring" style="display: block; margin: 7px auto;" /></span>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,datadog" valign="middle" alt="Datadog" /><span style="display: inline-block; background-color: #f7f7f7; width: 48px; height: 48px; border-radius: 12px; margin-left: 10px; vertical-align: middle; box-shadow: 0 1px 3px rgba(0,0,0,0.1);"><img src="https://cdn.simpleicons.org/opensearch/005EB8" width="30" height="30" alt="OpenSearch" style="display: block; margin: 9px auto;" /></span>
 </p>
 
 ### Orchestration
