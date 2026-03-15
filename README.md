@@ -11,16 +11,16 @@ Logic dictates that I automate to work less. In reality, I don’t work less—I
 ## 💻 My top open source projects
 
 <table width="100%" border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guandalinux&repo=packer_vsphere_iso&theme=tokyonight&hide_border=true" width="100%" alt="Projet 1" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guandalinux&repo=ansible_mysql_cluster_innodb&theme=tokyonight&hide_border=true" width="100%" alt="Projet 2" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guandalinux&repo=terraform_vmware_infra&theme=tokyonight&hide_border=true" width="100%" alt="Projet 3" />
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="./assets/cyberpunk.jpg" width="100%" style="border-radius: 10px;" alt="Cyberpunk City" />
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="top">
+<a href="https://github.com/guandalinux/packer_vsphere_iso"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guandalinux&repo=packer_vsphere_iso&theme=tokyonight&hide_border=true" width="100%" alt="Projet 1" /></a>
+<a href="https://github.com/guandalinux/ansible_mysql_cluster_innodb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guandalinux&repo=ansible_mysql_cluster_innodb&theme=tokyonight&hide_border=true" width="100%" alt="Projet 2" /></a>
+<a href="https://github.com/guandalinux/terraform_vmware_infra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guandalinux&repo=terraform_vmware_infra&theme=tokyonight&hide_border=true" width="100%" alt="Projet 3" /></a>
+</td>
+<td width="40%" valign="top" align="center">
+<img src="./assets/cyberpunk.jpg" width="100%" style="border-radius: 10px;" alt="Cyberpunk City" />
+</td>
+</tr>
 </table>
 
 ---
