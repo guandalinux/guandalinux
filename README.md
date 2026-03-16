@@ -27,7 +27,11 @@ Logic dictates that I automate to work less. In reality, I don’t work less—I
 ## 🛠️ My Skills
 
 ### Cloud
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp)
+<table><tr>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" width="48" height="48" alt="AWS" /><br/>AWS</td>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=azure" width="48" height="48" alt="Azure" /><br/>Azure</td>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" width="48" height="48" alt="GCP" /><br/>GCP</td>
+</tr></table>
 
 ### Virtualization
 <table><tr>
@@ -44,7 +48,11 @@ Logic dictates that I automate to work less. In reality, I don’t work less—I
 </tr></table>
 
 ### CI/CD
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gitlab,jenkins,argocd)
+<table><tr>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" width="48" height="48" alt="GitLab" /><br/>GitLab</td>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins" width="48" height="48" alt="Jenkins" /><br/>Jenkins</td>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=argocd" width="48" height="48" alt="ArgoCD" /><br/>ArgoCD</td>
+</tr></table>
 
 ### Monitoring
 <table><tr>
