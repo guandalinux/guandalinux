@@ -30,31 +30,33 @@ Logic dictates that I automate to work less. In reality, I don’t work less—I
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp)
 
 ### Virtualization
-<p align="left">
-  <span style="display: inline-block; background-color: #f7f7f7; width: 48px; height: 48px; border-radius: 12px; vertical-align: middle; box-shadow: 0 1px 3px rgba(0,0,0,0.1);"><img src="https://img.icons8.com/color/512/vmware-vsphere.png" width="42" height="42" alt="vSphere" style="display: block; margin: 3px auto;" /></span><span style="display: inline-block; background-color: #f7f7f7; width: 48px; height: 48px; border-radius: 12px; margin-left: 10px; vertical-align: middle; box-shadow: 0 1px 3px rgba(0,0,0,0.1);"><img src="https://blogs.vmware.com/wp-content/uploads/sites/78/2023/06/VMware-Cloud-Director-logo.png" alt="vCloud Director" style="width: 48px; height: 48px; object-fit: contain; display: block; margin: 0px auto;" /></span>
-</p>
+<table><tr>
+  <td align="center" width="60"><img src="https://img.icons8.com/color/512/vmware-vsphere.png" width="48" height="48" alt="vSphere" /><br/>vSphere</td>
+  <td align="center" width="60"><img src="https://blogs.vmware.com/wp-content/uploads/sites/78/2023/06/VMware-Cloud-Director-logo.png" width="48" height="48" alt="vCloud Director" /><br/>VCD</td>
+</tr></table>
 
 ### Infra as code
-<p align="left">
-  <a href="#">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ansible,vagrant,terraform" valign="middle" />
-  </a>
-  <span style="display: inline-block; background-color: #02A8EF; width: 48px; height: 48px; border-radius: 10px; margin-left: 5px; vertical-align: middle;">
-    <img src="https://cdn.simpleicons.org/packer/white" width="34" height="34" alt="Packer" style="display: block; margin: 7px auto;" />
-  </span>
-</p>
+<table><tr>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=ansible" width="48" height="48" alt="Ansible" /><br/>Ansible</td>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=vagrant" width="48" height="48" alt="Vagrant" /><br/>Vagrant</td>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=terraform" width="48" height="48" alt="Terraform" /><br/>Terraform</td>
+  <td align="center"><img src="https://cdn.simpleicons.org/packer/02A8EF" width="48" height="48" alt="Packer" /><br/>Packer</td>
+</tr></table>
 
 ### CI/CD
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gitlab,jenkins,argocd)
 
 ### Monitoring
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,datadog" valign="middle" alt="Datadog" /><span style="display: inline-block; background-color: #f7f7f7; width: 48px; height: 48px; border-radius: 12px; margin-left: 10px; vertical-align: middle; box-shadow: 0 1px 3px rgba(0,0,0,0.1);"><img src="https://cdn.simpleicons.org/opensearch/005EB8" width="30" height="30" alt="OpenSearch" style="display: block; margin: 9px auto;" /></span>
-</p>
+<table><tr>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus" width="48" height="48" alt="Prometheus" /><br/>Prometheus</td>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=datadog" width="48" height="48" alt="Datadog" /><br/>Datadog</td>
+  <td align="center"><img src="https://cdn.simpleicons.org/opensearch/005EB8" width="48" height="48" alt="OpenSearch" /><br/>OpenSearch</td>
+</tr></table>
 
 ### Orchestration
-<p align="left">
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="48" height="48" alt="Kubernetes" valign="middle" /><span style="display: inline-block; background-color: #f7f7f7; width: 48px; height: 48px; border-radius: 12px; margin-left: 10px; vertical-align: middle; box-shadow: 0 1px 3px rgba(0,0,0,0.1);"><img src="https://cdn.simpleicons.org/helm/0F1689" width="30" height="30" alt="Helm" style="display: block; margin: 9px auto;" /></span>
-</p>
+<table><tr>
+  <td align="center"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="48" height="48" alt="Kubernetes" /><br/>Kubernetes</td>
+  <td align="center"><img src="https://cdn.simpleicons.org/helm/0F1689" width="48" height="48" alt="Helm" /><br/>Helm</td>
+</tr></table>
 
 <br />
